@@ -6,18 +6,22 @@ Need is for creating an intelligent chatbot based on natural language processing
 Examples of such queries include steps to carry out a test, its probable values/ acceptable limits, actions to resolve any issue faced during maintenance. <br>
 The chatbot should have features for semantic processing of queries. It should also includes industrial standards and safety guidelines and test equipment to follow that activity.<br>
 ## Usage
-1. **Clone the Repository:**
+- **Navigate to this Webpage:**
    ```bash
-   git clone https://github.com/manuemmanuel/Substation-Asset-Management.git
-2. **Navigate to Substation-Asset-Management directory:**
-   ```bash
-   cd Substation-Asset-Management
-3. **Install Libraries and dependencies:**
-   ```bash
-   pip3 install spacy
+  https://gxk3s5m2td4bka4fdyjypy.streamlit.app/
 
-   python -m spacy download en_core_web_sm
-4. **Run the Program:**
-   ```bash
-   python bot.py
+The topics available at the moment are:
+
+1. Standard Tests for Transformers.
+2. Acceptable Limits for Reactors.
+3. Safety Guidelines for Circuit Breakers.
+4. Issue Resolution for Surge Arresters.
+5. Resolving Abnormal Noise from Transformers.
+6. Frequency of Dissolved Gas Analysis.
+7. Safety Precautions for SF6 Gas Handling.
+8. Common Tests for Instrument Transformers.
+9. Troubleshooting Circuit Breaker Trips.
+10. Maintenance Frequency for Lightning Arresters.
+
+
    
